@@ -3,7 +3,6 @@ const app = express();
 
 //routes
 app.use('/', require('./routes/index'));
-s;
 
 PORT = process.env.PORT || 5000;
 
